@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="1.2.1-SNAPSHOT"><source path="F:\RxAndroid-master\sample-app\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.1-SNAPSHOT\assets"/></dataSet><dataSet config="main"><source path="F:\RxAndroid-master\sample-app\src\main\assets"/><source path="F:\RxAndroid-master\sample-app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\RxAndroid-master\sample-app\src\debug\assets"/></dataSet></merger>
